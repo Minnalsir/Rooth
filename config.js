@@ -6,7 +6,7 @@ global.prefix= ['#']
 global.sessionName = 'WhatsApp-Bot'
 global.mess = {
     success: 'Feito!!',
-	nomebot: 'Rooth',
+    nomebot: 'Rooth',
     admin: '*Ops!! desculpe cara, isso é apenas para administradores*',
     botAdmin: '*Não posso fazer esse comando sem admin...*',
     owner: '*Desculpe!! este comando é para meus queridos desenvolvedores.*',
