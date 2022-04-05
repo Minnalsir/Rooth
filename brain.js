@@ -30,7 +30,7 @@ module.exports = mauri = async (mauri, m, chatUpdate, store) => {
         const text = q = args.join(" ")
         const quoted = m.quoted ? m.quoted : m
         const mime = (quoted.msg || quoted).mimetype || ''
-	      const isMedia = /image|video|sticker|audio/.test(mime)
+	const isMedia = /image|video|sticker|audio/.test(mime)
         const isGroup=  m.chat.endsWith("@g.us");
         const groupMetadata = m.isGroup ? await mauri.groupMetadata(m.chat).catch(e => {}) : ''
         const groupName = m.isGroup ? groupMetadata.subject : ''
