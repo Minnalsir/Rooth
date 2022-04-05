@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs')//KIBA NÃO CARALHO!!
 const chalk = require('chalk')
 
 global.owner = ['5513988614673']
