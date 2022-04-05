@@ -7,6 +7,17 @@ global.sessionName = 'WhatsApp-Bot'
 global.mess = {
     success: 'Feito!!',
     nomebot: 'Rooth',
+    menubot: 
+`┌─────❁┈[ Rooth ]┈❁──────
+├➸ Author: Maurício
+├➸ BuildD: Node JS
+├➸ Prefix: #
+├─❁┈[ Comandos de grupos ]┈❁───
+├➸ #remover
+├➸ #promover
+├➸ #rebaixar
+├➸ #mencionar
+└─────❁┈[ Rooth ]┈❁──────`,
     admin: '*Ops!! desculpe cara, isso é apenas para administradores*',
     botAdmin: '*Não posso fazer esse comando sem admin...*',
     owner: '*Desculpe!! este comando é para meus queridos desenvolvedores.*',
