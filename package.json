@@ -1,0 +1,15 @@
+{
+  "name": "mauri-web-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mauri.js",
+  "scripts": {
+    "start": "node mauri.js"
+  },
+  "author": "Maurício",
+  "dependencies": {
+    "astro-web.js": "^1.0.2",
+    "axios": "^0.26.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
