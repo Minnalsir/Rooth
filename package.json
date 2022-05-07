@@ -8,7 +8,7 @@
   },
   "author": "Maurício",
   "dependencies": {
-    "astro-web.js": "^1.0.2",
+    "whatsapp-web.js": "^1.0.2",
     "axios": "^0.26.1",
     "qrcode-terminal": "^0.12.0"
   }
